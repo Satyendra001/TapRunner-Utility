@@ -1,0 +1,8 @@
+.filters__chevron {
+    border-radius: 2px;
+    transition: all 2 linear;
+}
+
+.filters__chevron.rotate {
+    transform:rotate(180deg);
+}
